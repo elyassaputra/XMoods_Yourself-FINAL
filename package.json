@@ -1,7 +1,7 @@
 {
-  "name": "Rifza",
+  "name": "Elyas",
   "version": "1.0.0",
-  "description": "X-M•WhatsAppNodejs • By_Rifza",
+  "description": "X-M•WhatsAppNodejs • By_Elyas",
   "main": "start.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Rifza",
+  "author": "Elyas",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -68,10 +68,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rifza123/.git"
+    "url": "git+https://github.com/Elyas123/.git"
   },
   "bugs": {
-    "url": "https://github.com/Rifza123//issues"
+    "url": "https://github.com/Elyas123//issues"
   },
-  "homepage": "https://github.com/Rifza123/#readme"
+  "homepage": "https://github.com/Elyas123/#readme"
 }
